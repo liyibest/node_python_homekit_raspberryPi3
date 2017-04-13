@@ -11,4 +11,11 @@
    sudo make install 
 
 ```
-## add 
+  >add node-dht-sensor module for node.js,it's rely on the BCM2835 library.
+ ```
+ npm install node-dht-sensor
+ ```
+ >add python surpport for javascript(node.js)
+ ```
+npm install  python-shell
+ ```

@@ -1,6 +1,6 @@
 # node_python_homekit_raspberryPi3
 ## Projects based on HAP-NodeJS
-### <https://github.com/KhaosT/HAP-NodeJS.git>
+> <https://github.com/KhaosT/HAP-NodeJS.git>
 ###                                   modified by 李江涛 （friderick_lee）
   >add lastest BCM2835 library  for  C/C++ ,if it surppport you machine.
 ```

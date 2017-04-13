@@ -1,6 +1,6 @@
 # node_python_homekit_raspberryPi3
-### add node-dht-sensor module by 李江涛 （friderick_lee）
-  frist you should add lastest BCM2835 library  for  C/C++
+### modified by 李江涛 （friderick_lee）
+  ####add lastest BCM2835 library  for  C/C++ ,if it surppport you machine.
 ```
    wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.35.tar.gz     
    tar xvzf bcm2835-1.xx.tar.gz     
@@ -11,3 +11,4 @@
    sudo make install 
 
 ```
+## add 

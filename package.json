@@ -1,7 +1,7 @@
 {
-  "name": "hap-nodejs",
-  "version": "0.4.21",
-  "description": "HAP-NodeJS is a Node.js implementation of HomeKit Accessory Server.",
+  "name": "node_python_homekit_raspberryPi3",
+  "version": "0.0.1",
+  "description": "node_python_homekit_raspberryPi3 is a Node.js implementation of HomeKit Accessory Server.",
   "main": "index.js",
   "engines": {
     "node": ">=4.3.2"
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KhaosT/HAP-NodeJS.git"
+    "url": "https://github.com/liyibest/node_python_homekit_raspberryPi3.git"
   },
-  "author": "Khaos Tian <khaos.tian@gmail.com> (http://tz.is/)",
+  "author": "friderick lee <liyibest@outlook.com> ( )",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/KhaosT/HAP-NodeJS/issues"
+    "url": "https://github.com/liyibest/node_python_homekit_raspberryPi3.git"
   },
-  "homepage": "https://github.com/KhaosT/HAP-NodeJS"
+  "homepage": "https://github.com/liyibest/node_python_homekit_raspberryPi3.git"
 }
